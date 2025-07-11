@@ -1,13 +1,9 @@
-
+import Body from "./components/Body";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-      <h1 className="text-2xl font-bold text-red-600">
-      Hello world!
-    </h1>
-      </header>
+      <Body></Body>
     </div>
   );
 }

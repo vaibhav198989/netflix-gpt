@@ -1,3 +1,5 @@
+NETFLIX-GPT 
+
 1- Create React App using - npx create-react app (name)
 2- Installed tailwind 
 
@@ -16,5 +18,5 @@
     - Search Bar
     - Suggestions 
 
-    
+
         

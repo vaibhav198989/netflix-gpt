@@ -4,6 +4,8 @@ NETFLIX-GPT
 2- Installed tailwind 
 3- Implment Header
 4- Implement Login Form
+5- Implement Sign In Form 
+6- Implement Sign Up Form
 
 
 #Featues 
